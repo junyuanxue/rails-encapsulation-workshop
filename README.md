@@ -2,10 +2,14 @@
 
 Install the repo:
 
-* bundle
-* rake db:setup
+* `bundle`
+* `rake db:setup`
 
-## Exercises
+## Exercise
 
-1. Refactor the articles_controller so it's better encapsulated
-1. Change the logic so word count is calculated when you create the article
+1. Refactor the articles_controller (do it TDD!)
+
+## Resources
+
+[Slides on encapsulation in
+Rails](https://slides.com/makersacademy/rails-encapsulation)
